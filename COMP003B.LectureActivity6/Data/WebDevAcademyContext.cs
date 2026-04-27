@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using COMP003B.LectureActivity6.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace COMP003B.LectureActivity6.Data
 {
